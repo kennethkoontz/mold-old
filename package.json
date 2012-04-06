@@ -5,6 +5,8 @@
     "name": "Kenneth Koontz",
     "email": "kenneth.koontz@gmail.com"
   },
+  "bin": { "mold" : "./mold.js" },
+  "preferGLobal": "true",
   "dependencies": {
     "express": "2.5.9",
     "commander": "0.5.2"

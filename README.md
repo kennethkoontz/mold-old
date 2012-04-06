@@ -1,10 +1,9 @@
 #### Create an empty mold:
 ```
-$ mold <app> 
+$ mold create [name]
 ```
 
 This creates the following structure:
-
 /app/{models, views, controllers}
 routes.js
 config.js

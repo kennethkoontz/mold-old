@@ -1,0 +1,9 @@
+{ "name": "mold",
+  "description": "MVC Web Framwork",
+  "version": "0.0.1",
+  "author": {
+    "name": "Kenneth Koontz",
+    "email": "kenneth.koontz@gmail.com"
+  },
+  "dependencies": { "express": "2.5.9" }
+}
